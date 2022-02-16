@@ -652,7 +652,7 @@ label,
 a {
   font-family: "helvetica";
   font-weight: 600;
-  font-size: 16px;
+  font-size: 15px;
   color: #2f2f2f !important;
 }
 
@@ -769,6 +769,7 @@ h4 {
 
 .bgc-white {
   background-color: #ffffff;
+  width: 90%;
 }
 
 .bgc-dark-slate-blue {
@@ -780,7 +781,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #424242 !important;
 }
 
 .btn-atomic-tangerine {
