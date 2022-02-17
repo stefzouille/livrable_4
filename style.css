@@ -887,7 +887,7 @@ h4 {
     position: relative;
   }
   .bloc {
-    padding-left: 0;
+    padding-left: 0px;
     padding-right: 0;
     /* padding-left: constant(safe-area-inset-left);
     padding-right: constant(safe-area-inset-right); */
@@ -930,6 +930,7 @@ h4 {
   }
   .navbar .nav {
     padding-top: 10px;
+    padding-left: 30px;
     /* border-top: 1px solid rgba(0, 0, 0, 0.2); */
     /* float: none !important; */
   }
