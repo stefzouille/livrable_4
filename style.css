@@ -482,6 +482,9 @@ button {
 .icon-md {
   font-size: 30px !important;
 }
+a p {
+  display: none;
+}
 
 .icon-lg {
   font-size: 60px !important;
